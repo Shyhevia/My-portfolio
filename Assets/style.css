@@ -1,0 +1,34 @@
+.body {
+    background-color: beige;
+        color: blue;
+        
+    
+    }
+    
+    .container {
+        font-family: 'Courier New', Courier, monospace;
+        color: blue;
+        font-size: 13px;
+    }
+    
+    .card {
+    image-rendering: crisp-edges;
+    flex-wrap: wrap;
+    
+    }
+    .projects {
+        display: flex; 
+        
+    }
+    .project1 img {
+        width: 300px;
+        height: 300px;
+        margin: auto;
+        padding: 20px;
+    
+    }
+    .project2 img {
+        width: 200px;
+        height: 300px;
+    }
+    
